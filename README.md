@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/adrianbstewart/adrianbstew
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Profanity: For F*ck Sake
+Profanity: Nope
 
 ### Markdown
 
@@ -16,7 +16,6 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-#### Header 4
 
 - Bulleted
 - List
