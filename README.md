@@ -1,13 +1,12 @@
-## Welcome to Adrian's GitHub Page
+## Task 1
 
 You can use the [editor on GitHub](https://github.com/adrianbstewart/adrianbstewart.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Task 1: A vuln found in a scan, remediated and a direct link sent to a scan manager
 Profanity: Fuck it!
-Changed: Heck yes!
 
-More profanity: yes, I said FUCK!
 
 ### Markdown
 
