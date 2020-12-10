@@ -4,10 +4,6 @@ You can use the [editor on GitHub](https://github.com/adrianbstewart/adrianbstew
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Task 1: A vuln found in a scan, remediated and a direct link sent to a scan manager
-Profanity: Fuck it!
-
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
