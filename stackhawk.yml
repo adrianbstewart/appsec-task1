@@ -74,7 +74,7 @@ app:
 #      # The value of the token passed as an environment variable at runtime.
 #      # When type=COOKIE the value format should be <cookie-name>=<cookie-value>
 #      value: ${AUTH_TOKEN}
-#    # Describe how to extract your apps authorization token.
+#    # Describe how to extract your apps authorization token. This is an update.
 #    # This should only be used with tokenAuthorization
 #    tokenExtraction:
 #      # The type of extraction to use. TOKEN_PATH is the path to the token in
